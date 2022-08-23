@@ -1,5 +1,8 @@
 package com.devsuperior.dslearn.resources.exceptions;
 
+import com.devsuperior.dslearn.resources.exceptions.FieldMessage;
+import com.devsuperior.dslearn.resources.exceptions.StandardError;
+
 import java.util.ArrayList;
 import java.util.List;
 
